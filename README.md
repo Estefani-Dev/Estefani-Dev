@@ -4,7 +4,6 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
 
 <p align="left"># Hi, I'm Estefani! 👋<br><br>🎓 Software Engineering Student - 3rd semester at  University Estácio.<br>💻 Full Stack Developer in training through the RECODE PRO program.  <br>🌟 Seeking opportunities for internships or jobs in the tech field.<br><br>🎯 Goal<br>To become an innovative developer, creating impactful solutions that help people and businesses while continuously learning and growing in the tech world.</p>
 
@@ -33,9 +32,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
+###
 <h3 align="left">🔥   My Stats :</h3>
+
+
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Estefani-Dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+###
